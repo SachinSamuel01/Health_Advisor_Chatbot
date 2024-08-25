@@ -1,0 +1,7 @@
+langchain
+PyPDF2
+python-dotenv
+chromadb
+langchain-google-genai
+semantic-text-splitter
+google-generativeai
